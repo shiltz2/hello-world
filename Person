@@ -1,6 +1,6 @@
 public class Person{ 
 
-private String names;
+private String nameser;
 private String surname;
 private int age;
 private String gender;
